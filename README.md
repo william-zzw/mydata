@@ -8,7 +8,6 @@
 
 ### 2.2 分布式
 
-1. [逻辑时钟](https://github.com/MikasaLevi/mydata/issues/2)
 1. [《Time, Clocks, and the Ordering of Events in a Distributed System》](https://github.com/MikasaLevi/mydata/issues/2)
 2. [状态机](https://github.com/MikasaLevi/mydata/issues/4)
 3. [Raft1：概念与算法核心](https://github.com/MikasaLevi/mydata/issues/5)
