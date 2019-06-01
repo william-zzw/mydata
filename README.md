@@ -16,5 +16,6 @@
 6. [Raft4：安全性](https://github.com/MikasaLevi/mydata/issues/8)
 7. [Paxos：问题背景](https://github.com/MikasaLevi/mydata/issues/9)
 8. [Paxos：算法机制-choosing a value](https://github.com/MikasaLevi/mydata/issues/10)
+9. [Paxos：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/mydata/issues/11)
 
 # 三、扩展视野
