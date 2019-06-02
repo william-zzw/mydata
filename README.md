@@ -13,7 +13,7 @@
 3. [Raft1：概念与算法核心](https://github.com/MikasaLevi/mydata/issues/5)
 4. [Raft2：Leader election 领导者选举](https://github.com/MikasaLevi/mydata/issues/6)
 5. [Raft3：Log Replication 日志复制](https://github.com/MikasaLevi/mydata/issues/7)
-6. [Raft4：安全性](https://github.com/MikasaLevi/mydata/issues/8)
+6. [Raft4：Safety 两种特殊场景](https://github.com/MikasaLevi/mydata/issues/8)
 7. [Paxos：问题背景](https://github.com/MikasaLevi/mydata/issues/9)
 8. [Paxos：算法机制-choosing a value](https://github.com/MikasaLevi/mydata/issues/10)
 9. [Paxos：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/mydata/issues/11)
