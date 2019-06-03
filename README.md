@@ -18,4 +18,8 @@
 8. [Paxos：算法机制-choosing a value](https://github.com/MikasaLevi/mydata/issues/10)
 9. [Paxos：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/mydata/issues/11)
 
+### 2.3 研发流程
+
+1. [谈谈对敏捷开发的看法](https://github.com/MikasaLevi/mydata/issues/12)
+
 # 三、扩展视野
