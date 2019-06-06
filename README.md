@@ -21,5 +21,6 @@
 ### 2.3 研发流程
 
 1. [谈谈对敏捷开发的看法](https://github.com/MikasaLevi/mydata/issues/12)
+2. [从第一个敏捷项目后再看敏捷实践的一些坑](https://github.com/MikasaLevi/mydata/issues/13)
 
 # 三、扩展视野
