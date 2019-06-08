@@ -1,5 +1,9 @@
 # 一、基础知识
 
+### 2.1 数据结构
+
+1. [数据结构-栈](https://github.com/MikasaLevi/mydata/issues/14)
+
 # 二、大型软件研发经验
 
 ### 2.1 高可用与稳定性
