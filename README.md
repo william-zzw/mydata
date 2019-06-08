@@ -1,6 +1,6 @@
 # 一、基础知识
 
-### 2.1 数据结构
+### 1.1 数据结构
 
 1. [数据结构-栈](https://github.com/MikasaLevi/mydata/issues/14)
 
