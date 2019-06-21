@@ -10,7 +10,7 @@
 
 1. [高可用稳定性-缓冲技术1-问题与解决方案](https://github.com/MikasaLevi/mydata/issues/1)
 
-### 2.2 分布式
+### 2.2 分布式1
 
 1. [《Time, Clocks, and the Ordering of Events in a Distributed System》](https://github.com/MikasaLevi/mydata/issues/2)
 2. [《Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial》](https://github.com/MikasaLevi/mydata/issues/4)
@@ -21,6 +21,10 @@
 7. [Paxos：问题背景](https://github.com/MikasaLevi/mydata/issues/9)
 8. [Paxos：算法机制-choosing a value](https://github.com/MikasaLevi/mydata/issues/10)
 9. [Paxos：prepare&accept请求调用情况分析](https://github.com/MikasaLevi/mydata/issues/11)
+
+###  2.2 分布式2
+
+1. [分布式基础理论（ACID/BASE/CAP）](https://github.com/MikasaLevi/mydata/issues/15)
 
 ### 2.3 研发流程
 
