@@ -13,6 +13,7 @@
 3. [高可用稳定性-缓冲技术3-再谈透支(数据化解决方案) ](https://github.com/MikasaLevi/mydata/issues/20)
 4. [高可用稳定性-缓冲技术4-积压问题和锁占用](https://github.com/MikasaLevi/mydata/issues/21)
 5. [高可用稳定性-缓冲技术5-热点配置](https://github.com/MikasaLevi/mydata/issues/22)
+6. [高可用稳定性-缓冲技术6-参考专利:一种缓冲记账方法及装置](https://github.com/MikasaLevi/mydata/issues/23)
 
 ### 2.2 分布式1
 
