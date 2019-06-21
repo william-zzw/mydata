@@ -6,7 +6,7 @@
 
 # 二、大型软件研发经验
 
-### 2.1 高可用与稳定性
+### 2.1 高并发
 
 1. [高可用稳定性-缓冲技术1-问题与解决方案](https://github.com/MikasaLevi/mydata/issues/1)
 2. [高可用稳定性-缓冲技术2-延时和透支](https://github.com/MikasaLevi/mydata/issues/19)
