@@ -13,7 +13,7 @@
 2. TODO:我的应用是如何做到高可用稳定性的
 3. TODO:我的架构域是如何做到高可用稳定性的
 4. TODO:如何理解SRE
-5. TODO:作为一个owner应该问自己的几个问题
+5. [作为一个项目owner应该问自己的几个问题](https://github.com/MikasaLevi/mydata/issues/24)
 
 ### 2.1 高并发
 
