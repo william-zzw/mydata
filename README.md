@@ -45,6 +45,8 @@
 
 ### 2.3 预案与限流
 
+1. [预案与限流（偏组织层面）](https://github.com/MikasaLevi/mydata/issues/25)
+
 ### 2.4 单元化部署与弹性
 
 ### 2.5 容灾  
