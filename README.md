@@ -49,6 +49,8 @@
 
 ### 2.4 单元化部署与弹性
 
+1. [单元化部署](https://github.com/MikasaLevi/mydata/issues/26)
+
 ### 2.5 容灾  
 
 ### 2.6 研发流程
