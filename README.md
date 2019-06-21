@@ -26,6 +26,7 @@
 
 1. [分布式基础理论（ACID/BASE/CAP）](https://github.com/MikasaLevi/mydata/issues/15)
 2. [分布式二阶段1-二阶段落地思路](https://github.com/MikasaLevi/mydata/issues/16)
+3. [分布式二阶段2-悬挂](https://github.com/MikasaLevi/mydata/issues/17)
 
 ### 2.3 研发流程
 
