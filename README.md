@@ -8,11 +8,11 @@
 
 ### 思考
 
-1. TODO:如何保障一次功能上线的稳定性
-2. TODO:如何保障一次活动的稳定性
-2. TODO:我的应用是如何做到高可用稳定性的
-3. TODO:我的架构域是如何做到高可用稳定性的
-4. TODO:如何理解SRE
+1. 【TODO】如何保障一次功能上线的稳定性
+2. 【TODO】如何保障一次活动的稳定性
+2. 【TODO】我的应用是如何做到高可用稳定性的
+3. 【TODO】我的架构域是如何做到高可用稳定性的
+4. 【TODO】如何理解SRE
 5. [作为一个项目owner应该问自己的几个问题](https://github.com/MikasaLevi/mydata/issues/24)
 
 ### 2.1 高并发
@@ -43,17 +43,24 @@
 3. [分布式二阶段2-悬挂](https://github.com/MikasaLevi/mydata/issues/17)
 4. [分布式二阶段3-嵌套事务](https://github.com/MikasaLevi/mydata/issues/18)
 
-### 2.3 预案与限流
+### 2.3 技术风险:预案与限流
 
 1. [预案与限流（偏组织层面）](https://github.com/MikasaLevi/mydata/issues/25)
 
-### 2.4 单元化部署与弹性
+### 2.4 技术风险:单元化部署与弹性
 
 1. [单元化部署](https://github.com/MikasaLevi/mydata/issues/26)
 
-### 2.5 容灾  
+### 2.5 技术风险:容灾
 
-### 2.6 研发流程
+### 2.6 测试
+
+1. [契约测试Pact:从理论到落地coding(一)：理论部分](https://github.com/MikasaLevi/mydata/issues/27)
+2. [契约测试Pact:从理论到落地coding(二)：Consumer 端落地 coding](https://github.com/MikasaLevi/mydata/issues/28)
+3. [契约测试Pact:从理论到落地coding(三)：不同参数怎么返回不同的响应](https://github.com/MikasaLevi/mydata/issues/29)
+4. 【TODO】契约测试Pact:从理论到落地coding(四)：Provider 侧
+
+### 2.7 研发流程
 
 1. [谈谈对敏捷开发的看法](https://github.com/MikasaLevi/mydata/issues/12)
 2. [从第一个敏捷项目后再看敏捷实践的一些坑](https://github.com/MikasaLevi/mydata/issues/13)
