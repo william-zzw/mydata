@@ -62,6 +62,8 @@
 
 ### 2.7 运维
 
+1. [K8S(一)：基础概念](https://github.com/MikasaLevi/mydata/issues/30)
+
 ### 2.8 研发流程
 
 1. [谈谈对敏捷开发的看法](https://github.com/MikasaLevi/mydata/issues/12)
