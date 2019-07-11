@@ -63,6 +63,7 @@
 ### 2.7 运维
 
 1. [K8S(一)：基础概念](https://github.com/MikasaLevi/mydata/issues/30)
+2. [K8S(二)：实际使用-部署](https://github.com/MikasaLevi/mydata/issues/31)
 
 ### 2.8 研发流程
 
